@@ -17,4 +17,4 @@ The program displays the scanning result for the entered local IP address.
 The scanner is intended for authorized devices and networks only.
 
 Conclusion
-This task provides basic knowledge of network ports, services, and network security.# Cyber-Security-Task-1
+This task provides basic knowledge of network ports, services, and network security.
